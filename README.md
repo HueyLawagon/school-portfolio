@@ -2,7 +2,7 @@
 
 School portfolio for MMCM
 
-Team Logo for Team LAB is accessible title LAB_TeamLogo.png
+Team Logo for Team LAB is accessible titled LAB_TeamLogo.png
 
 Coursera certificate can be accessed titled Coursera_Certificate.pdf
 
